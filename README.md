@@ -34,7 +34,7 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from **KNIT 
 
 
 ### 📫 How to Reach Me:
-- **Email**: [avishek.mca@gmail.com](mailto:avi.codemail@gmail.com)
+- **Email**: [Click Here For Mailing Purposes](mailto:avi.codemail@gmail.com)
 - **LinkedIn**: [Avishek Sadhukhan](https://www.linkedin.com/in/avishek-sadhukhan-159158314/)
 - **Portfolio**: Coming soon!
 
