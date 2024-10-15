@@ -32,16 +32,10 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** from **KNIT 
 - ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) **and** ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) for mastering DSA.
 - ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) and ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) for cloud deployment.
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avisheksadhukhan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avisheksadhukhan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avisheksadhukhan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ### 📫 How to Reach Me:
-- **Email**: [avishek.mca@gmail.com](mailto:avishek.mca@gmail.com)
-- **LinkedIn**: [Avishek Sadhukhan](https://www.linkedin.com/in/avishek-sadhukhan)
+- **Email**: [avishek.mca@gmail.com](mailto:avi.codemail@gmail.com)
+- **LinkedIn**: [Avishek Sadhukhan](https://www.linkedin.com/in/avishek-sadhukhan-159158314/)
 - **Portfolio**: Coming soon!
 
 ---
