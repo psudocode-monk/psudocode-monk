@@ -21,23 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
----
-
-### 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://github.com/AvikDoesCode/AvikDoesCode/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvikDoesCode&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
