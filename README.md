@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack JavaScript developer & MCA student from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+JavaScript+Dev;MERN+Stack+Enthusiast;React+%2B+Firebase+Lover;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+JavaScript+Developer;MERN+Stack+Enthusiast;React+%2B+Firebase+Lover;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,14 +24,11 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/avikdoescode" target="_blank">
+  <a href="https://www.linkedin.com/in/avishek-sadhukhan-159158314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:avikdoescode@gmail.com" target="_blank">
+  <a href="mailto:avi.codemail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/avikdoescode" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
   </a>
 </p>
 
