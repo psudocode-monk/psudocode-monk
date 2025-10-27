@@ -79,7 +79,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=000000&animation=twinkling" alt="Waving Footer" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=300&lines=Keep+Coding%2C+Keep+Shining!+%E2%9C%A8" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=300&lines=KKeep+Coding%2C+Keep+Shining!+%E2%9C%A8" alt="Footer Typing" />
 </div>
 
 <div align="center">
