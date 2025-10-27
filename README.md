@@ -5,11 +5,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://gpvc.github.io/graphics?username=AvishékSadhukhan&show=visitors&color=0&label=Profile%20Views" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=AvishékSadhukhan&style=flat-square&color=brightgreen" alt="Profile Views" />
-</div>
-
 ---
 
 ### 🌟 About Me
@@ -72,37 +67,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<div align="center">
-  <p>Check out some of my recent creations – each one a labor of love! 💖</p>
-  
-  <!-- Add your actual project badges here; placeholders for now -->
-  <a href="https://github.com/AvishékSadhukhan/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishékSadhukhan&repo=your-project-1&theme=radical&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Project 1" />
-  </a>
-  <br><br>
-  <a href="https://github.com/AvishékSadhukhan/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AvishékSadhukhan&repo=your-project-2&theme=radical&bg_color=0D1117&title_color=61DAFB&text_color=FFFFFF" alt="Project 2" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AvishékSadhukhan&show_icons=true&theme=radical&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishékSadhukhan&theme=radical&background=0D1117&border=FFD700&ring=61DAFB&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true" alt="Streak Stats" width="38%" />
-  <br>
-  <img src="https://github-readme-top-languages.vercel.app/api?username=AvishékSadhukhan&layout=compact&theme=radical&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AvishékSadhukhan&theme=radical&bg_color=0D1117&title_color=61DAFB&text_color=FFFFFF&hide_border=true" alt="WakaTime Stats" width="38%" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJ4N3Z4c2V1aG5xY3Z3bG5tZ3Z3eXh1a2Z0eDFzZ3V4Y2Z1eXh3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iAB23PFqklKW4XvMdy/giphy.gif" width="120" height="120" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/avishek-sadhukhan-159158314/" target="_blank">
@@ -132,9 +96,9 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ using Markdown Magic ✨ | Last Updated: October 2025</sub>
+  <sub>Made with ❤️ using Markdown Magic ✨ | Last Updated: October 27, 2025</sub>
 </div>
 
 ---
 
-**Pro Tip:** Replace placeholders like `your-project-1`, `your-twitter`, and `avishéksadhukhan.dev` with your actual links. For WakaTime stats, connect your account [here](https://wakatime.com/). This README is fully GitHub-optimized for animations and responsiveness – watch it shine on desktop and mobile! 🌟
+**Pro Tip:** Replace placeholders like `your-twitter` and `avishéksadhukhan.dev` with your actual links. This README keeps the magic alive with typing animations, progress bars, and waving vibes – all GitHub-optimized for that wow factor! 🌟
