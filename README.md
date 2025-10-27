@@ -52,19 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code" />
 </div>
 
-#### Skill Levels (Animated Progress Bars)
-<div align="center">
-  <img src="https://progress-bar.dev/90/?suffix=JavaScript&color=FFD700" title="JavaScript: 90%" />
-  <br>
-  <img src="https://progress-bar.dev/85/?suffix=React&color=61DAFB" title="React: 85%" />
-  <img src="https://progress-bar.dev/80/?suffix=Next.js&color=000000" title="Next.js: 80%" />
-  <br>
-  <img src="https://progress-bar.dev/75/?suffix=Node.js&color=339933" title="Node.js: 75%" />
-  <img src="https://progress-bar.dev/70/?suffix=MongoDB&color=47A248" title="MongoDB: 70%" />
-  <br>
-  <img src="https://progress-bar.dev/85/?suffix=Firebase&color=FFCB2D" title="Firebase: 85%" />
-</div>
-
 ---
 
 ### 🌐 Connect With Me
@@ -100,5 +87,3 @@
 </div>
 
 ---
-
-**Pro Tip:** Replace placeholders like `your-twitter` and `avishéksadhukhan.dev` with your actual links. This README keeps the magic alive with typing animations, progress bars, and waving vibes – all GitHub-optimized for that wow factor! 🌟
