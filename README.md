@@ -3,8 +3,8 @@
   ║   SHINOBI WEEKLY :: THE AVISHEK SADHUKHAN ISSUE                        ║
   ║   A magazine-style GitHub profile.                                     ║
   ║   Place in repo  psudocode-monk/psudocode-monk  as  README.md          ║
-  ║   NOTE: GitHub strips CSS. Text-over-image is done with capsule-render ║
-  ║   banners; character-beside-heading is done with 2-column tables.      ║
+  ║   Character photos live in  assets/characters/  (committed to repo).   ║
+  ║   Text-over-image = capsule-render banners (GitHub strips CSS).        ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -21,16 +21,19 @@
   <img src="https://komarev.com/ghpvc/?username=psudocode-monk&label=COPIES%20SOLD&color=ff7800&style=for-the-badge"/>
 </p>
 
-<!-- Cover character strip: the cast standing across the cover -->
+<!-- Cover character line-up: the real cast across the cover -->
 <p align="center">
-  <img src="https://media.tenor.com/5mP0z0qxK5EAAAAC/naruto-sage-mode.gif" width="22%" alt="Naruto"/>
-  <img src="https://media.tenor.com/0j_0vJ5GQ8sAAAAC/naruto-rasengan.gif" width="22%" alt="Rasengan"/>
-  <img src="https://media.tenor.com/2RyNg_rI3ZkAAAAC/naruto-shadow-clone.gif" width="22%" alt="Shadow clones"/>
-  <img src="https://media.tenor.com/Xy3ZkVZ5eQ4AAAAC/naruto-kurama.gif" width="22%" alt="Kurama"/>
+  <img src="assets/characters/naruto.png"  height="150" alt="Naruto Uzumaki"/>
+  <img src="assets/characters/sasuke.png"  height="150" alt="Sasuke Uchiha"/>
+  <img src="assets/characters/kakashi.png" height="150" alt="Kakashi Hatake"/>
+  <img src="assets/characters/itachi.png"  height="150" alt="Itachi Uchiha"/>
+  <img src="assets/characters/minato.png"  height="150" alt="Minato Namikaze"/>
+  <img src="assets/characters/jiraiya.png" height="150" alt="Jiraiya"/>
+  <img src="assets/characters/gaara.png"   height="150" alt="Gaara"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ninja+Naruto&weight=800&size=30&duration=2600&pause=700&color=FF7800&center=true&vCenter=true&width=950&height=55&lines=COVER+STORY%3A+The+Backend+Shinobi+of+Konoha;EXCLUSIVE%3A+Node.js+%E2%80%A2+NestJS+%E2%80%A2+Spring+Boot+Ninjutsu;INSIDE%3A+iOS+Taijutsu+%26+Distributed-Systems+Sage+Mode" alt="Cover headlines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Ninja+Naruto&weight=800&size=30&duration=2600&pause=700&color=FF7800&center=true&vCenter=true&width=950&height=55&lines=COVER+STORY%3A+The+Backend+Shinobi+of+Konoha;EXCLUSIVE%3A+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Spring+Security+Ninjutsu;INSIDE%3A+iOS+Taijutsu+%26+Distributed-Systems+Sage+Mode" alt="Cover headlines"/>
 </h3>
 
 <p align="center">
@@ -51,7 +54,7 @@
 <table border="0">
 <tr>
 <td width="32%" align="center" valign="top">
-  <img src="https://media.tenor.com/5mP0z0qxK5EAAAAC/naruto-sage-mode.gif" width="100%" alt="Naruto Uzumaki"/>
+  <img src="assets/characters/naruto.png" width="100%" alt="Naruto Uzumaki"/>
   <br><sub><b>🍥 NARUTO UZUMAKI</b><br><i>cover model</i></sub>
 </td>
 <td width="68%" valign="top">
@@ -64,15 +67,15 @@
 Shinobi:        Avishek Sadhukhan
 Codename:       psudocode-monk
 Affiliation:    Alt Digital Technologies, Noida
-Specialization: Backend Ninjutsu + iOS Taijutsu
-Chakra Nature:  ☕ Java  |  🟢 Node  |  🐦 Swift
+Specialization: Java & Spring Boot Ninjutsu + iOS Taijutsu
+Chakra Nature:  ☕ Java  |  🌱 Spring Boot  |  🐦 Swift
 Kekkei Genkai:  RESTful APIs & Distributed Systems
 Current Arc:    MCA @ KNIT Sultanpur (CGPA 8.7)
 Nindo:          "Ship clean, ship reliable."
 ```
 
 The headline shinobi of this issue — a developer who channels chakra through
-REST endpoints and summons shadow-clone microservices at will.
+Spring Boot endpoints and summons microservices at will.
 
 </td>
 </tr>
@@ -82,7 +85,7 @@ REST endpoints and summons shadow-clone microservices at will.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7800,100:16213e&height=42&text=EDUCATION%20%E2%80%94%20THE%20ACADEMY%20ARC&fontSize=20&fontColor=ffffff&fontAlignY=58" width="100%" alt="Academy section banner"/>
 </p>
 
-<!-- ═══════════════════ FEATURE 2 — ACADEMY (Iruka / Kakashi) ═══════════════════ -->
+<!-- ═══════════════════ FEATURE 2 — ACADEMY (Kakashi) ═══════════════════ -->
 <table border="0">
 <tr>
 <td width="68%" valign="top">
@@ -98,8 +101,8 @@ fundamentals and a near-perfect chakra score.
 
 </td>
 <td width="32%" align="center" valign="top">
-  <img src="https://media.tenor.com/0j_0vJ5GQ8sAAAAC/naruto-rasengan.gif" width="100%" alt="Training"/>
-  <br><sub><b>🎓 ACADEMY SENSEI</b><br><i>training feature</i></sub>
+  <img src="assets/characters/kakashi.png" width="100%" alt="Kakashi Hatake"/>
+  <br><sub><b>🎓 KAKASHI HATAKE</b><br><i>academy sensei</i></sub>
 </td>
 </tr>
 </table>
@@ -108,12 +111,12 @@ fundamentals and a near-perfect chakra score.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:ff7800&height=42&text=S-RANK%20MISSION%20LOG%20%E2%80%94%20EXPERIENCE&fontSize=20&fontColor=ffffff&fontAlignY=58" width="100%" alt="Mission section banner"/>
 </p>
 
-<!-- ═══════════════════ FEATURE 3 — MISSIONS (Minato / Jiraiya) ═══════════════════ -->
+<!-- ═══════════════════ FEATURE 3 — MISSIONS (Minato) ═══════════════════ -->
 <table border="0">
 <tr>
 <td width="32%" align="center" valign="top">
-  <img src="https://media.tenor.com/2RyNg_rI3ZkAAAAC/naruto-shadow-clone.gif" width="100%" alt="Shadow clone jutsu"/>
-  <br><sub><b>🌀 SQUAD LEADER</b><br><i>mission briefing</i></sub>
+  <img src="assets/characters/minato.png" width="100%" alt="Minato Namikaze"/>
+  <br><sub><b>🌀 MINATO NAMIKAZE</b><br><i>squad leader</i></sub>
 </td>
 <td width="68%" valign="top">
 
@@ -121,8 +124,8 @@ fundamentals and a near-perfect chakra score.
 **Alt Digital Technologies** · Noida, UP — `Jul 2026 – Present` · **S-RANK**
 
 - 🍃 **Shadow-Clone APIs** — built & maintained production **iOS apps in Swift**, wiring RESTful APIs & async data flows; shipped **10+ backend API integrations** for cross-client data consistency.
-- 🌀 **Rasengan Backend** — **Node.js · NestJS · Fastify · Express.js**: modular REST APIs, controllers, services, DTOs, validation, error handling, auth flows & third-party integrations across **10+ endpoints**.
-- 👁️ **Sharingan Debugging** — traced **iOS → Node/NestJS → Azure** flows via logs, traces & payloads; root-cause analysis on critical workflows.
+- 🌀 **Rasengan Backend** — engineered backend services with **Java & Spring Boot** (Spring MVC, Spring Security): modular REST APIs, controllers, services, DTOs, bean validation, exception handling, JWT auth flows & third-party integrations across **10+ endpoints**.
+- 👁️ **Sharingan Debugging** — traced **iOS → Spring Boot → Azure** flows via logs, API traces & payloads; root-cause analysis on critical workflows.
 - 🤝 **Team Seven Synergy** — code reviews, Git, Agile/Scrum, testing, defect resolution & CI/CD for stable, maintainable releases.
 
 </td>
@@ -133,27 +136,29 @@ fundamentals and a near-perfect chakra score.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7800,100:16213e&height=42&text=FORBIDDEN%20SCROLLS%20%E2%80%94%20PROJECTS&fontSize=20&fontColor=ffffff&fontAlignY=58" width="100%" alt="Projects section banner"/>
 </p>
 
-<!-- ═══════════════════ FEATURE 4 — PROJECTS (centerfold spread) ═══════════════════ -->
+<!-- ═══════════════════ FEATURE 4 — PROJECTS (Itachi + Sasuke centerfold) ═══════════════════ -->
 <table border="0">
 <tr>
 <td width="50%" valign="top" align="center">
 
-  <img src="https://media.tenor.com/5mP0z0qxK5EAAAAC/naruto-sage-mode.gif" width="60%" alt="Maach Bhaat"/>
+  <img src="assets/characters/itachi.png" width="55%" alt="Itachi Uchiha"/>
+  <br><sub><b>🍜 FEATURED BY ITACHI</b></sub>
 
   ### 🍜 MAACH BHAAT
-  `Node.js · Express.js · MongoDB · REST`
+  `Java · Spring Boot · MongoDB · REST`
   <br><i>Aug – Sept 2025</i>
 
   Short-form **food-video sharing platform** — upload recipe & showcase
   videos, save favorites, explore food-partner content.
-  - 🌀 RESTful APIs with Node/Express
+  - 🌀 RESTful APIs with Spring Boot
   - 🗄️ MongoDB data modeling
-  - ♻️ Reusable API & data-access layers
+  - ♻️ Reusable service & data-access layers
 
 </td>
 <td width="50%" valign="top" align="center">
 
-  <img src="https://media.tenor.com/0j_0vJ5GQ8sAAAAC/naruto-rasengan.gif" width="60%" alt="Cravezy"/>
+  <img src="assets/characters/sasuke.png" width="55%" alt="Sasuke Uchiha"/>
+  <br><sub><b>🍱 FEATURED BY SASUKE</b></sub>
 
   ### 🍱 CRAVEZY
   `React.js · Redux Toolkit · Tailwind`
@@ -173,12 +178,12 @@ fundamentals and a near-perfect chakra score.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:ff7800&height=42&text=JUTSU%20ARSENAL%20%E2%80%94%20TECHNICAL%20SKILLS&fontSize=20&fontColor=ffffff&fontAlignY=58" width="100%" alt="Skills section banner"/>
 </p>
 
-<!-- ═══════════════════ FEATURE 5 — JUTSU ARSENAL (Kurama) ═══════════════════ -->
+<!-- ═══════════════════ FEATURE 5 — JUTSU ARSENAL (Gaara) ═══════════════════ -->
 <table border="0">
 <tr>
 <td width="30%" align="center" valign="top">
-  <img src="https://media.tenor.com/Xy3ZkVZ5eQ4AAAAC/naruto-kurama.gif" width="100%" alt="Kurama"/>
-  <br><sub><b>🦊 KURAMA</b><br><i>chakra arsenal</i></sub>
+  <img src="assets/characters/gaara.png" width="100%" alt="Gaara"/>
+  <br><sub><b>� GAARA</b><br><i>chakra arsenal</i></sub>
 </td>
 <td width="70%" valign="top">
 
@@ -189,24 +194,22 @@ fundamentals and a near-perfect chakra score.
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 
-**⚙️ Backend & API**
+**🌱 Java Ecosystem & Backend**
 <br>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white"/>
 
 **🗄️ Databases**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 **🏗️ System Design**
@@ -232,6 +235,7 @@ fundamentals and a near-perfect chakra score.
 <br>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 
@@ -243,7 +247,7 @@ fundamentals and a near-perfect chakra score.
 ### 📊 CHAKRA DISTRIBUTION — Skill Meter
 
 ```text
-Backend / API Design   ███████████████████░  95%  🌀 Rasengan Mastery
+Java / Spring Boot      ███████████████████░  95%  🌀 Rasengan Mastery
 System Design & Arch.   ████████████████░░░░  82%  🏗️ Konoha Architect
 Databases (SQL/NoSQL)   █████████████████░░░  88%  🗄️ Scroll Keeper
 Cloud & DevOps          ███████████████░░░░░  78%  ☁️ Summoning Jutsu
@@ -273,9 +277,19 @@ Observability           █████████████░░░░░�
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
-<p align="center">
+<!-- Jiraiya wisdom quote -->
+<table border="0">
+<tr>
+<td width="24%" align="center" valign="middle">
+  <img src="assets/characters/jiraiya.png" width="100%" alt="Jiraiya the Toad Sage"/>
+  <br><sub><b>🐸 JIRAIYA</b><br><i>editor's note</i></sub>
+</td>
+<td width="76%" valign="middle">
+  <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Hard%20work%20is%20worthless%20for%20those%20that%20don%27t%20believe%20in%20themselves&author=Naruto%20Uzumaki" alt="Naruto quote"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
