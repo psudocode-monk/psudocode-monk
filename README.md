@@ -8,78 +8,53 @@
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ═══════════════════ MAGAZINE COVER (text baked onto banner) ═══════════════════ -->
+<!-- ═══════════════════ HERO ═══════════════════ -->
+<!-- Soft gradient hero with the name baked on; clean, no clutter -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1a2e,50:ff7800,100:16213e&height=230&section=header&text=SHINOBI%20WEEKLY&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=THE%20AVISHEK%20SADHUKHAN%20ISSUE%20%E2%80%A2%20BELIEVE%20IT!&descAlignY=68&descSize=20&animation=fadeIn" width="100%" alt="Shinobi Weekly cover"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,45:ff7800,100:0b1021&height=200&section=header&text=Avishek%20Sadhukhan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Java%20%7C%20Spring%20Boot%20%7C%20iOS&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Avishek Sadhukhan"/>
 </p>
 
-<!-- Masthead strip -->
+<!-- Animated tagline -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ISSUE-%2301-ff7800?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KONOHA%20EDITION-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PRICE-1%20STAR%20%E2%AD%90-ff7800?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=psudocode-monk&label=COPIES%20SOLD&color=ff7800&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FF7800&center=true&vCenter=true&width=720&height=42&lines=Building+reliable+backends+with+Java+%26+Spring+Boot;Crafting+iOS+experiences+in+Swift;Designing+scalable%2C+distributed+systems" alt="tagline"/>
 </p>
 
-<!-- Cover character line-up: the real cast across the cover -->
+<!-- Clean contact row -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/naruto.png"  height="150" alt="Naruto Uzumaki"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/sasuke.png"  height="150" alt="Sasuke Uchiha"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/kakashi.png" height="150" alt="Kakashi Hatake"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/itachi.png"  height="150" alt="Itachi Uchiha"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/minato.png"  height="150" alt="Minato Namikaze"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/jiraiya.png" height="150" alt="Jiraiya"/>
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/gaara.png"   height="150" alt="Gaara"/>
+  <a href="https://linkedin.com/in/avishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/psudocode-monk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:avi.codemail@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/+91%208777393718-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=psudocode-monk&label=Profile%20views&color=ff7800&style=flat-square"/>
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ninja+Naruto&weight=800&size=30&duration=2600&pause=700&color=FF7800&center=true&vCenter=true&width=950&height=55&lines=COVER+STORY%3A+The+Backend+Shinobi+of+Konoha;EXCLUSIVE%3A+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Spring+Security+Ninjutsu;INSIDE%3A+iOS+Taijutsu+%26+Distributed-Systems+Sage+Mode" alt="Cover headlines"/>
-</h3>
+<br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/avishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/psudocode-monk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:avi.codemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/+91%208777393718-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</p>
-
-<!-- Table of contents ribbon -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213e,100:1a1a2e&height=46&section=header&text=IN%20THIS%20ISSUE%20%20%C2%B7%20%20Registration%20%C2%B7%20Academy%20%C2%B7%20Missions%20%C2%B7%20Scrolls%20%C2%B7%20Jutsu%20%C2%B7%20Stats&fontSize=15&fontColor=ff7800&fontAlignY=55" width="100%" alt="table of contents"/>
-</p>
-
----
-
-<!-- ═══════════════════ FEATURE 1 — NINJA REGISTRATION (Naruto) ═══════════════════ -->
+<!-- ═══════════════════ INTRO (single feature portrait, not a lineup) ═══════════════════ -->
 <table border="0">
 <tr>
-<td width="32%" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/naruto.png" width="100%" alt="Naruto Uzumaki"/>
-  <br><sub><b>🍥 NARUTO UZUMAKI</b><br><i>cover model</i></sub>
+<td width="30%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/psudocode-monk/psudocode-monk/main/assets/characters/naruto.png" width="90%" alt="Naruto Uzumaki"/>
 </td>
-<td width="68%" valign="top">
+<td width="70%" valign="middle">
 
-### 🍥 NINJA REGISTRATION — `忍者登録`
+### こんにちは! I'm Avishek 👋
 
-> *“A ninja never gives up on a failing build.”*
+A **backend developer** from the Hidden Leaf of Konoha (currently Noida, India), channeling chakra into **Java & Spring Boot** APIs and **iOS** apps in Swift. I like clean architecture, reliable systems, and shipping code that doesn't break under pressure.
 
 ```yaml
-Shinobi:        Avishek Sadhukhan
-Codename:       psudocode-monk
-Affiliation:    Alt Digital Technologies, Noida
-Specialization: Java & Spring Boot Ninjutsu + iOS Taijutsu
-Chakra Nature:  ☕ Java  |  🌱 Spring Boot  |  🐦 Swift
-Kekkei Genkai:  RESTful APIs & Distributed Systems
-Current Arc:    MCA @ KNIT Sultanpur (CGPA 8.7)
-Nindo:          "Ship clean, ship reliable."
+Role:     Software Developer @ Alt Digital Technologies
+Focus:    Java • Spring Boot • REST APIs • Distributed Systems
+Also:     iOS / Swift • System Design
+Learning: MCA @ KNIT Sultanpur (CGPA 8.7)
+Motto:    "Ship clean, ship reliable — never give up on a build."
 ```
-
-The headline shinobi of this issue — a developer who channels chakra through
-Spring Boot endpoints and summons microservices at will.
 
 </td>
 </tr>
 </table>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7800,100:16213e&height=42&text=EDUCATION%20%E2%80%94%20THE%20ACADEMY%20ARC&fontSize=20&fontColor=ffffff&fontAlignY=58" width="100%" alt="Academy section banner"/>
